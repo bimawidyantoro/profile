@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "GeoUrban Learning"
 title_separator          : "-"
-name                     : &name "Ir. Bimo Aji Widyantoro, S.T., M.Eng."
+name                     : &name "Bimo Aji Widyantoro"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bimawidyantoro.github.io/profile/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,9 +24,9 @@ repository               : "https://bimawidyantoro.github.io/profile/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Ir. Bimo Aji Widyantoro, S.T., M. Eng."
+  name             : "Bimo Aji Widyantoro"
   pronouns         : # example: "she/her"  
-  bio              : "Textually Online"
+  bio              : "Peneliti dan praktisi di bidang geoinformatika dan perencanaan wilayah dan kota"
   location         : "Balikpapan, Indonesia"
   employer         : "Institut Teknologi Kalimantan"
   uri              : "https://bimawidyantoro.github.io/profile/"
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "bawidyantoro"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "bawidyantoro"
   mastodon         : # URL
