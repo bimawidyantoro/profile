@@ -1,61 +1,69 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Bimo Aji Widyantoro",
+    "email": "bimo.widyantoro@lecturer.itk.ac.id",
     "phone": "",
-    "website": "https://academicpages.github.io",
+    "website": "https://bimawidyantoro.github.io/profile/",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Kota Balikpapan",
+      "address": "Jl. Soekarno-Hatta No. KM15",
+      "postalCode": "76127",
+      "city": "Balikpapan",
       "countryCode": "ID",
-      "region": ""
+      "region": "Kalimantan Timur"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.co.id/citations?user=6AR5iTUAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0000-0002-1707-3359"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "bimawidyantoro",
+        "url": "https://bimawidyantoro.github.io/profile/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+    "name": "Institut Teknologi Kalimantan",
+    "position": "Dosen Perencanaan Wilayah dan Kota",
+    "startDate": "2024",
+    "endDate": "Sekarang",
+    "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Universitas Hasanuddin",
+      "area": "Program Profesi Insinyur",
+      "studyType": "Insinyur (Ir.)",
+      "startDate": "2025",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Universitas Gadjah Mada",
+      "area": "Teknik Geomatika",
+      "studyType": "Master of Engineering (M.Eng.)",
+      "startDate": "2018",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Universitas Islam Negeri Alauddin Makassar",
+      "area": "Teknik Perencanaan Wilayah dan Kota",
+      "studyType": "Sarjana Teknik (S.T.)",
+      "startDate": "2011",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
