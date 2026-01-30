@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Ir. Bimo Aji Widyantoro, S.T., M. Eng."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Kota Balikpapan"
-  employer         : "Red Brick University"
+  bio              : "Textually Online"
+  location         : "Balikpapan, Indonesia"
+  employer         : "Institut Teknologi Kalimantan"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bimo.widyantoro@lecturer.itk.ac.id" 
 
   # Academic websites
   academia         : # URL
