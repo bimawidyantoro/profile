@@ -3,7 +3,7 @@
     "name": "Bimo Aji Widyantoro",
     "email": "bimo.widyantoro@lecturer.itk.ac.id",
     "phone": "",
-    "website": "https://bimawidyantoro.github.io/profile/",
+    "website": "https://bimawidyantoro.github.io/profile",
     "summary": "",
     "location": {
       "address": "Jl. Soekarno-Hatta No. KM15",
@@ -26,7 +26,7 @@
       {
         "network": "GitHub",
         "username": "bimawidyantoro",
-        "url": "https://bimawidyantoro.github.io/profile/"
+        "url": "https://bimawidyantoro.github.io/profile"
       }
     ]
   },
